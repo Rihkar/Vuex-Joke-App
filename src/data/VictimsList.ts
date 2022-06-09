@@ -1,0 +1,21 @@
+const victimsList = [
+  "Alberts",
+  "Arnis",
+  "Artis",
+  "Artūrs",
+  "Bogdans",
+  "Edgards",
+  "Elvis",
+  "Haralds",
+  "Ieva",
+  "Ilona",
+  "Inta",
+  "Jānis",
+  "Ņikita",
+  "Niklāvs",
+  "Regīna",
+  "Ričards",
+  "Rihards",
+  "Roberts",
+];
+export default victimsList;

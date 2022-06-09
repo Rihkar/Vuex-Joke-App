@@ -1,0 +1,85 @@
+#app {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: xx-large;
+    display: flex;
+    align-items: center;
+}
+
+nav {
+    margin: 0 auto;
+    width: fit-content;
+    font-size: xx-large;
+    display: flex;
+    gap: 10px;
+    margin-bottom: 30px;
+}
+
+.victims-list {
+    width: fit-content;
+    margin: 0 auto;
+}
+
+.next-victim {
+    width: fit-content;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.btn-next-victim {
+    width: fit-content;
+    margin: 0 auto;
+}
+
+.joke-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    max-width: 700px;
+    flex-wrap: wrap;
+    margin: 10px auto;
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 40px;
+
+}
+
+.joke-btn-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.btn-more-info {
+    width: fit-content;
+    white-space: nowrap;
+    height: fit-content;
+    border: none;
+    background-color: transparent;
+    color: blue;
+    font-size: 10px;
+}
+
+.single-joke-info-wrapper {
+    width: fit-content;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 10px auto;
+}
+
+.single-joke-info {
+    border: 1px solid black;
+    border-radius: 40px;
+    padding: 10px;
+    margin: 0 5px;
+}
